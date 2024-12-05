@@ -1,19 +1,19 @@
 <h1 style="text-align:center;">Hullian The White Clown</h1>
-<h3 style="text-align:center;">about source the code</h3>
+<h3 style="text-align:center;">About source the code</h3>
 <em>This is source code of this game.<p> Do you search a game? <a href="https://gamejolt.com/games/xlebza/767945">Page</a> of Gamejolt</em><p>
 This code contains the full work of Developer called <em>"xlebza"</em>.
 <p>
-Game API: Unity, Version: 2021.3.12f1.
+Game Engine: Unity, Version: 2021.3.12f1.
 <p>
 Using <strong>this</strong> you can make your own mods, or your additions to this game.<p> <strong style="color:red">Important</strong>:
-<strong><em>any things you will create with this won't be related with original game</em></strong>
+<strong><em>any things you will create with this won't be related with original game!</em></strong>
 <hr>
-<h3 style="text-align:center;">about the whole game</h3>
+<h3 style="text-align:center;">About the whole game</h3>
 Name: Hullian The White Clown<p>
 
 Published in: 30 November 2022
 
-all the time spent on creating the first version of the game: Two weeks
+All the time spent on creating the first version of the game: Two weeks (14 days)
 
 Description of the game in Gamejolt:
 
